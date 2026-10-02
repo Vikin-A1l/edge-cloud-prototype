@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+config.json
+runtime/
+secrets/
+*.pem
+*.key
+*.gguf
+*.safetensors
+*.zip
+*.zip.sha256
+reports/*/requests.jsonl
+*.log
+*.pid
