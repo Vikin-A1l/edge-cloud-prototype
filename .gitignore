@@ -13,5 +13,6 @@ secrets/
 *.zip
 *.zip.sha256
 reports/*/requests.jsonl
+reports/demo*/
 *.log
 *.pid
